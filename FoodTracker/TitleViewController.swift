@@ -1,14 +1,14 @@
 //
-//  ViewController.swift
-//  FoodTracker
+//  TitleViewController.swift
+//  BudgetEZ
 //
 //  Created by Christopher Pham on 6/26/18.
-//  Copyright © 2018 Christopher Pham. All rights reserved.
+//  Copyright © 2018 Christopher Pham. All rights res erved.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class TitleViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
